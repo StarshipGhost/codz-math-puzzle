@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://StarshipGhost.github.io/codz-math-puzzle",
+  "homepage": "https://starshipghost.github.io/codz-math-puzzle",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
